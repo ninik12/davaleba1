@@ -1,0 +1,62 @@
+body {
+    background-color:rgb(248, 240, 228);
+}
+
+h1{
+    color: rgb(112, 85, 138);
+    font-size: 40px;
+    font-family: "Playwrite DE Grund", cursive;
+
+}
+
+nav{ 
+    color: rgb(92, 127, 116);
+    margin: 10px;
+}
+h5{
+    color:rgb(71, 214, 166);
+    font-size: 20px;
+    font-family:"Edu AU VIC WA NT Guides", cursive ;
+    margin-bottom: 1px;
+
+}
+#txt1{
+    margin-left: 900px;
+    font-size: 40px;
+}
+.x101{
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 5px 10px;
+    
+}
+
+p{
+   color: rgb(71, 214, 166);
+   width: 500px; 
+   height: 400px;
+   font-size: 20px;
+   font-family: "Edu AU VIC WA NT Guides", cursive;
+   font-weight: 500;
+   border:2px solid black;
+   border-radius: 10px;
+   
+   
+}
+table{
+    border: 1px solid rgb(155, 44, 44);
+    border-radius: 10px;
+}
+
+th, td {
+    border: 1px solid rgb(159, 22, 22);
+    
+}
+h3{
+    color: rgb(159, 22, 22);
+}
